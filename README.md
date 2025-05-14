@@ -1,54 +1,109 @@
-# Calculadora de IMC
+<h1 align="center">Calculadora de IMC</h1>
 
-Um aplicativo Flutter para calcular o Índice de Massa Corporal (IMC) de forma simples e intuitiva.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
 
-## 📱 Funcionalidades
+<p align="center">
+  Um aplicativo Flutter para calcular o Índice de Massa Corporal (IMC) de forma simples e intuitiva.
+</p>
 
-- Cálculo do IMC com base no peso e altura
-- Interface moderna e amigável
-- Validação de entrada de dados
-- Resultado com classificação do IMC
-- Feedback visual com cores e ícones
-- Mensagens personalizadas de orientação
+<h2>📱 Funcionalidades</h2>
 
-## 📊 Classificação do IMC
+<ul>
+  <li>Cálculo do IMC com base no peso e altura</li>
+  <li>Interface moderna e amigável</li>
+  <li>Validação de entrada de dados</li>
+  <li>Resultado com classificação do IMC</li>
+  <li>Feedback visual com cores e ícones</li>
+  <li>Mensagens personalizadas de orientação</li>
+</ul>
 
-| IMC         | Classificação                      | Indicador   |
-| ----------- | ---------------------------------- | ----------- |
-| < 18.5      | Magreza                            | 🟧 Laranja  |
-| 18.5 - 24.9 | Normal                             | 🟩 Verde    |
-| 25.0 - 29.9 | Sobrepeso (Obesidade Grau 1)       | 🟨 Amarelo  |
-| 30.0 - 39.9 | Obesidade (Obesidade Grau 2)       | 🟥 Vermelho |
-| ≥ 40.0      | Obesidade Grave (Obesidade Grau 3) | 🟥 Vermelho |
+<h2>📊 Classificação do IMC</h2>
 
-## 🚀 Como Usar
+<table>
+  <tr>
+    <th>IMC</th>
+    <th>Classificação</th>
+    <th>Indicador</th>
+  </tr>
+  <tr>
+    <td>< 18.5</td>
+    <td>Magreza</td>
+    <td>🟧 Laranja</td>
+  </tr>
+  <tr>
+    <td>18.5 - 24.9</td>
+    <td>Normal</td>
+    <td>🟩 Verde</td>
+  </tr>
+  <tr>
+    <td>25.0 - 29.9</td>
+    <td>Sobrepeso (Obesidade Grau 1)</td>
+    <td>🟨 Amarelo</td>
+  </tr>
+  <tr>
+    <td>30.0 - 39.9</td>
+    <td>Obesidade (Obesidade Grau 2)</td>
+    <td>🟥 Vermelho</td>
+  </tr>
+  <tr>
+    <td>≥ 40.0</td>
+    <td>Obesidade Grave (Obesidade Grau 3)</td>
+    <td>🟥 Vermelho</td>
+  </tr>
+</table>
 
-1. Digite seu peso em quilogramas (kg)
-2. Digite sua altura em centímetros (cm)
-3. Toque no botão "CALCULAR IMC"
-4. Visualize seu resultado com a classificação e recomendações
+<h2>🚀 Como Usar</h2>
 
-## 💻 Tecnologias Utilizadas
+<ol>
+  <li>Digite seu peso em quilogramas (kg)</li>
+  <li>Digite sua altura em centímetros (cm)</li>
+  <li>Toque no botão "CALCULAR IMC"</li>
+  <li>Visualize seu resultado com a classificação e recomendações</li>
+</ol>
 
-- Flutter
-- Dart
-- Material Design
+<h2>💻 Tecnologias Utilizadas</h2>
 
-## 📝 Requisitos
+<ul>
+  <li>Flutter</li>
+  <li>Dart</li>
+  <li>Material Design</li>
+</ul>
 
-- Flutter 3.0 ou superior
-- Dart 2.17 ou superior
+<h2>📝 Requisitos</h2>
 
-## ⚙️ Como Executar
+<ul>
+  <li>Flutter 3.0 ou superior</li>
+  <li>Dart 2.17 ou superior</li>
+</ul>
 
-1. Clone este repositório
-2. Execute `flutter pub get` para instalar as dependências
-3. Execute `flutter run` para iniciar o aplicativo
+<h2>⚙️ Como Executar</h2>
 
-## 📸 Screenshots
+<ol>
+  <li>
+    Clone este repositório:
+    <pre><code>git clone https://github.com/seu-usuario/calculadora-imc.git</code></pre>
+  </li>
+  <li>
+    Instale as dependências:
+    <pre><code>flutter pub get</code></pre>
+  </li>
+  <li>
+    Execute o aplicativo:
+    <pre><code>flutter run</code></pre>
+  </li>
+</ol>
 
-[Aqui você pode adicionar screenshots do seu aplicativo quando tiver]
+<h2>📸 Screenshots</h2>
 
-## 📄 Licença
+<p align="center">
+  [Aqui você pode adicionar screenshots do seu aplicativo quando tiver]
+</p>
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<h2>📄 Licença</h2>
+
+<p>
+  Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.
+</p>
