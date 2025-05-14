@@ -107,3 +107,19 @@
 <p>
   Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.
 </p>
+
+<h2>👥 Desenvolvedores</h2>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Matrícula</th>
+  </tr>
+  <tr>
+    <td>Victor Hugo Paulo Rosseto</td>
+    <td>123100013</td>
+  </tr>
+  <tr>
+    <td>Gabriel Dondoni Pecly</td>
+    <td>123100010</td>
+  </tr>
+</table>
