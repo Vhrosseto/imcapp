@@ -96,18 +96,6 @@
   </li>
 </ol>
 
-<h2>📸 Screenshots</h2>
-
-<p align="center">
-  [Aqui você pode adicionar screenshots do seu aplicativo quando tiver]
-</p>
-
-<h2>📄 Licença</h2>
-
-<p>
-  Este projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.
-</p>
-
 <h2>👥 Desenvolvedores</h2>
 <table>
   <tr>
